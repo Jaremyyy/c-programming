@@ -1,0 +1,15 @@
+C:\Users\shegy\source\repos\task1_prog\task1_prog\bin\Debug\net6.0\task1_prog.deps.json
+C:\Users\shegy\source\repos\task1_prog\task1_prog\bin\Debug\net6.0\task1_prog.dll
+C:\Users\shegy\source\repos\task1_prog\task1_prog\bin\Debug\net6.0\task1_prog.pdb
+C:\Users\shegy\source\repos\task1_prog\task1_prog\obj\Debug\net6.0\task1_prog.csproj.AssemblyReference.cache
+C:\Users\shegy\source\repos\task1_prog\task1_prog\obj\Debug\net6.0\task1_prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shegy\source\repos\task1_prog\task1_prog\obj\Debug\net6.0\task1_prog.AssemblyInfoInputs.cache
+C:\Users\shegy\source\repos\task1_prog\task1_prog\obj\Debug\net6.0\task1_prog.AssemblyInfo.cs
+C:\Users\shegy\source\repos\task1_prog\task1_prog\obj\Debug\net6.0\task1_prog.csproj.CoreCompileInputs.cache
+C:\Users\shegy\source\repos\task1_prog\task1_prog\obj\Debug\net6.0\task1_prog.dll
+C:\Users\shegy\source\repos\task1_prog\task1_prog\obj\Debug\net6.0\refint\task1_prog.dll
+C:\Users\shegy\source\repos\task1_prog\task1_prog\obj\Debug\net6.0\task1_prog.pdb
+C:\Users\shegy\source\repos\task1_prog\task1_prog\obj\Debug\net6.0\ref\task1_prog.dll
+C:\Users\shegy\source\repos\task1_prog\task1_prog\bin\Debug\net6.0\task1_prog.exe
+C:\Users\shegy\source\repos\task1_prog\task1_prog\bin\Debug\net6.0\task1_prog.runtimeconfig.json
+C:\Users\shegy\source\repos\task1_prog\task1_prog\obj\Debug\net6.0\task1_prog.genruntimeconfig.cache
