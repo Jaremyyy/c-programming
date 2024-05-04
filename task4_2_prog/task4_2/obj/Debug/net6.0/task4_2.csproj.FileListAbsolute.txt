@@ -1,0 +1,15 @@
+C:\Users\shegy\source\repos\task4_2\task4_2\obj\Debug\net6.0\task4_2.csproj.AssemblyReference.cache
+C:\Users\shegy\source\repos\task4_2\task4_2\obj\Debug\net6.0\task4_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shegy\source\repos\task4_2\task4_2\obj\Debug\net6.0\task4_2.AssemblyInfoInputs.cache
+C:\Users\shegy\source\repos\task4_2\task4_2\obj\Debug\net6.0\task4_2.AssemblyInfo.cs
+C:\Users\shegy\source\repos\task4_2\task4_2\obj\Debug\net6.0\task4_2.csproj.CoreCompileInputs.cache
+C:\Users\shegy\source\repos\task4_2\task4_2\bin\Debug\net6.0\task4_2.exe
+C:\Users\shegy\source\repos\task4_2\task4_2\bin\Debug\net6.0\task4_2.deps.json
+C:\Users\shegy\source\repos\task4_2\task4_2\bin\Debug\net6.0\task4_2.runtimeconfig.json
+C:\Users\shegy\source\repos\task4_2\task4_2\bin\Debug\net6.0\task4_2.dll
+C:\Users\shegy\source\repos\task4_2\task4_2\bin\Debug\net6.0\task4_2.pdb
+C:\Users\shegy\source\repos\task4_2\task4_2\obj\Debug\net6.0\task4_2.dll
+C:\Users\shegy\source\repos\task4_2\task4_2\obj\Debug\net6.0\refint\task4_2.dll
+C:\Users\shegy\source\repos\task4_2\task4_2\obj\Debug\net6.0\task4_2.pdb
+C:\Users\shegy\source\repos\task4_2\task4_2\obj\Debug\net6.0\task4_2.genruntimeconfig.cache
+C:\Users\shegy\source\repos\task4_2\task4_2\obj\Debug\net6.0\ref\task4_2.dll
