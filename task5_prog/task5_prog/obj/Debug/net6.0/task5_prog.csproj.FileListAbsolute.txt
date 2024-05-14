@@ -1,0 +1,15 @@
+C:\Users\shegy\source\repos\task5_prog\task5_prog\bin\Debug\net6.0\task5_prog.exe
+C:\Users\shegy\source\repos\task5_prog\task5_prog\bin\Debug\net6.0\task5_prog.deps.json
+C:\Users\shegy\source\repos\task5_prog\task5_prog\bin\Debug\net6.0\task5_prog.runtimeconfig.json
+C:\Users\shegy\source\repos\task5_prog\task5_prog\bin\Debug\net6.0\task5_prog.dll
+C:\Users\shegy\source\repos\task5_prog\task5_prog\bin\Debug\net6.0\task5_prog.pdb
+C:\Users\shegy\source\repos\task5_prog\task5_prog\obj\Debug\net6.0\task5_prog.csproj.AssemblyReference.cache
+C:\Users\shegy\source\repos\task5_prog\task5_prog\obj\Debug\net6.0\task5_prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shegy\source\repos\task5_prog\task5_prog\obj\Debug\net6.0\task5_prog.AssemblyInfoInputs.cache
+C:\Users\shegy\source\repos\task5_prog\task5_prog\obj\Debug\net6.0\task5_prog.AssemblyInfo.cs
+C:\Users\shegy\source\repos\task5_prog\task5_prog\obj\Debug\net6.0\task5_prog.csproj.CoreCompileInputs.cache
+C:\Users\shegy\source\repos\task5_prog\task5_prog\obj\Debug\net6.0\task5_prog.dll
+C:\Users\shegy\source\repos\task5_prog\task5_prog\obj\Debug\net6.0\refint\task5_prog.dll
+C:\Users\shegy\source\repos\task5_prog\task5_prog\obj\Debug\net6.0\task5_prog.pdb
+C:\Users\shegy\source\repos\task5_prog\task5_prog\obj\Debug\net6.0\task5_prog.genruntimeconfig.cache
+C:\Users\shegy\source\repos\task5_prog\task5_prog\obj\Debug\net6.0\ref\task5_prog.dll
